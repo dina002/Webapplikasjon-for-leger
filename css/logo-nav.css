@@ -1,0 +1,120 @@
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}
+.table0{
+  float: left;
+  padding-right: 40px;
+}
+.table1{
+  float: left;
+  padding-right: 40px;
+}
+.table2{
+  float: left;
+  padding-right: 40px;
+}
+.table3{
+  float: left;
+  padding-right: 40px;
+}
+.table4{
+  float: left;
+  padding-right: 40px;
+}
+.bestilling{
+  float:right;
+  margin-left:10px;
+  border:1px solid lightblue;
+  padding:20px;
+  border-radius: 5px;
+}
+input[type=text] {
+    padding:5px;
+    border:2px solid #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+    outline: none;
+}
+
+input[type=submit] {
+    padding:5px 15px;
+    background:#ccc;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+input[type=submit]:hover {
+    background:#000;
+    color:#fff;
+
+}
+select{
+  padding:10px;
+}
+.forsidebilde{
+  background-size: cover;
+}
+.ledig{
+  background-color: #89C4F4;
+}
+.optatt{
+  background-color: #E74C3C;
+}
+.blue{
+  background-color: #89C4F4;
+  width:15px;
+  height: 15px;
+  display: inline-block;
+}
+.red{
+  background-color: #E74C3C;
+  width:15px;
+  height: 15px;
+  display: inline-block;
+}
+.heads{
+  background-color: #222;
+  color:#fff;
+}
+.behandler{
+  border-left:2px solid #222;
+  padding-left:10px;
+
+}
+
+.registrert{
+  padding:25px;
+  border:2px solid lightblue;
+  border-radius: 10px;
+  margin-bottom: 50px;
+
+}
